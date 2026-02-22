@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "地球最後の告白を",
+  "base_artist": "kemu",
+  "createdAt": "2026-02-22T22:17:58.222102Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "地球最後の告白を",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/01_地球最後の告白を_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "地球最後の告白を (feat. 桐谷遥&日野森雫&巡音ルカ)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_地球最後の告白を_(feat._桐谷遥&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "地球最後の告白を",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_地球最後の告白を_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "地球最後の告白を",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/04_地球最後の告白を_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "地球最後の告白を",
+      "artist": "りぶ",
+      "has_synced": true,
+      "path": "select/05_地球最後の告白を_りぶ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "10. 地球最後の告白を",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/06_10._地球最後の告白を_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "地球最後の告白を",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/07_地球最後の告白を_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "地球最後の告白を",
+      "artist": "H△G",
+      "has_synced": true,
+      "path": "select/08_地球最後の告白を_H△G.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "地球最後の告白を",
+      "artist": "MORE MORE JUMP! feat. 桐谷遥&日野森雫&巡音ルカ",
+      "has_synced": true,
+      "path": "select/09_地球最後の告白を_MORE_MORE_JUMP!_feat._桐谷遥&日野森雫&巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "地球最後の告白を",
+      "artist": "kemu",
+      "has_synced": false,
+      "path": "select/10_地球最後の告白を_kemu.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "地球最後の告白を",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/11_地球最後の告白を_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chikyuu Saigo no Kokuhaku wo (地球最後の告白を)",
+      "artist": "Wagakki Band （和楽器バンド）",
+      "has_synced": true,
+      "path": "select/12_Chikyuu_Saigo_no_Kokuhaku_wo_(地球最後の告白を)_Wagakki_Band_(和楽器バンド).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "地球最後の告白を",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/13_地球最後の告白を_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "地球最後の告白を",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/14_地球最後の告白を_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "地球最後の告白を (ボーナストラック)",
+      "artist": "神田沙也加 (かんだ さやか)",
+      "has_synced": false,
+      "path": "select/15_地球最後の告白を_(ボーナストラック)_神田沙也加_(かんだ_さやか).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "地球最後の告白を",
+      "artist": "kemu feat.GUMI",
+      "has_synced": false,
+      "path": "select/pl_01_地球最後の告白を_kemu_feat.GUMI.txt"
+    }
+  ]
+}
